@@ -5,6 +5,7 @@ local palette = {
     subtext2 = "#E5E7EB",
     subtext3 = "#D1D5DB",
     subtext4 = "#9CA3AF",
+    subtext5 = "#7C737F",
     bg_dark = "#131314",
     black = "#27272a",
     red = "#FCA5A5",
