@@ -1,8 +1,11 @@
-<div align="center">
-  <img src="./.github/images/fullerenenvim.png" alt="Logo">
-</div>
 
 <h1 align="center">Fullerene.nvim</h1>
+
+<div align="center">
+  <img width="200" height="200" src="./.github/images/fullerenenvim.png" alt="Logo">
+</div>
+
+</br>
 
 <p align="center">
   A dark colorscheme for Neovim inspired by
