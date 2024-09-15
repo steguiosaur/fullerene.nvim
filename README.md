@@ -1,8 +1,18 @@
-# Fullerene.nvim
+<div align="center">
+  <img src="./.github/images/fullerenenvim.png" alt="Logo">
+</div>
 
-A dark theme for Neovim inspired by
-[sam4llis/nvim-tundra](https://github.com/sam4llis/nvim-tundra) and
-[dgox16/oldworld.nvim](https://github.com/dgox16/oldworld.nvim)
+<h1 align="center">Fullerene.nvim</h1>
+
+<p align="center">
+  A dark colorscheme for Neovim inspired by
+  <a href="https://github.com/sam4llis/nvim-tundra">sam4llis/nvim-tundra</a>
+  and <a href="https://github.com/dgox16/oldworld.nvim">dgox16/oldworld.nvim</a>
+</p>
+
+---
+
+![colorscheme screenshot](./.github/images/screenshot.jpg) 
 
 ## Installation
 

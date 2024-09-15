@@ -24,7 +24,7 @@ return {
     LineNr = { fg = p.gray4 }, -- Line number for " =number" and ":#" commands, and when 'number' or 'relativenumber' option is set.
     CursorLineNr = { fg = p.subtext1 }, -- Like LineNr when 'cursorline' or 'relativenumber' is set for the cursor line.
     MatchParen = { fg = p.yellow, underline = true }, -- The character under the cursor or just before it, if it is a paired bracket, and its match.
-    ModeMsg = { fg = p.gray3, bold = true }, --' showmode' message (e.g., "-- INSERT --")
+    ModeMsg = { fg = p.orange, bold = true }, --' showmode' message (e.g., "-- INSERT --")
     MoreMsg = { fg = p.bright_magenta }, -- more-prompt
     NonText = { fg = p.subtext4 }, --'~' and '@' at the end of the window, characters from 'showbreak' and other characters that do not really exist in the text (e.g., > displayed when a double-wide character doesn't fit at the end of the line).
     Normal = { fg = p.fg, bg = p.bg }, -- normal text
