@@ -2,7 +2,7 @@ local p = require("fullerene.palette")
 
 return {
     ColorColumn = { bg = p.gray1 }, -- used for the columns set with 'colorcolumn'
-    Conceal = { fg = p.gray1 }, -- placeholder characters substituted for concealed text (see 'conceallevel')
+    Conceal = { fg = p.subtext5 }, -- placeholder characters substituted for concealed text (see 'conceallevel')
     Cursor = { fg = p.black, bg = p.fg }, -- the character under the cursor
     lCursor = { fg = p.black, bg = p.fg }, -- the character under the cursor
     CursorIM = { fg = p.black, bg = p.fg }, -- the character under the cursor
